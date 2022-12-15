@@ -1,0 +1,4 @@
+DEFINE_NEAR_METHOD(getVoteAverage)
+DEFINE_NEAR_METHOD(getVoteObject)
+DEFINE_NEAR_METHOD(newRanking)
+DEFINE_NEAR_METHOD(userParticipation)
